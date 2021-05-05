@@ -1,0 +1,14 @@
+﻿  pro3.cpp
+C:\Users\DELL\Desktop\pro3\pro3\pro3.cpp(209,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\pro3\pro3\pro3.cpp(213,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\pro3\pro3\pro3.cpp(220,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\pro3\pro3\pro3.cpp(224,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\pro3\pro3\pro3.cpp(233,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\pro3\pro3\pro3.cpp(237,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\pro3\pro3\pro3.cpp(258,7): warning C4101: 'n': unreferenced local variable
+C:\Users\DELL\Desktop\pro3\pro3\pro3.cpp(362,38): warning C4305: 'argument': truncation from 'int' to 'const char'
+C:\Users\DELL\Desktop\pro3\pro3\pro3.cpp(362,34): warning C4309: 'argument': truncation of constant value
+C:\Users\DELL\Desktop\pro3\pro3\pro3.cpp(373,26): warning C4101: 'e': unreferenced local variable
+C:\Users\DELL\Desktop\pro3\pro3\pro3.cpp(411,26): warning C4101: 'e': unreferenced local variable
+C:\Users\DELL\Desktop\pro3\pro3\pro3.cpp(688,26): warning C4101: 'e': unreferenced local variable
+  pro3.vcxproj -> C:\Users\DELL\Desktop\pro3\x64\Debug\pro3.exe

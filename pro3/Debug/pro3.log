@@ -1,0 +1,21 @@
+﻿  pro3.cpp
+D:\c\pro3\pro3\pro3.cpp(354,38): warning C4305: 'argument': truncation from 'int' to 'const char'
+D:\c\pro3\pro3\pro3.cpp(354,34): warning C4309: 'argument': truncation of constant value
+D:\c\pro3\pro3\pro3.cpp(370,19): warning C4018: '<': signed/unsigned mismatch
+D:\c\pro3\pro3\pro3.cpp(365,26): warning C4101: 'e': unreferenced local variable
+D:\c\pro3\pro3\pro3.cpp(407,19): warning C4018: '<': signed/unsigned mismatch
+D:\c\pro3\pro3\pro3.cpp(411,19): warning C4018: '<': signed/unsigned mismatch
+D:\c\pro3\pro3\pro3.cpp(412,20): warning C4018: '<': signed/unsigned mismatch
+D:\c\pro3\pro3\pro3.cpp(403,26): warning C4101: 'e': unreferenced local variable
+D:\c\pro3\pro3\pro3.cpp(426,20): warning C4018: '<': signed/unsigned mismatch
+D:\c\pro3\pro3\pro3.cpp(443,20): warning C4018: '<': signed/unsigned mismatch
+D:\c\pro3\pro3\pro3.cpp(460,20): warning C4018: '<': signed/unsigned mismatch
+D:\c\pro3\pro3\pro3.cpp(479,20): warning C4018: '<': signed/unsigned mismatch
+D:\c\pro3\pro3\pro3.cpp(532,19): warning C4018: '<': signed/unsigned mismatch
+D:\c\pro3\pro3\pro3.cpp(550,19): warning C4018: '<': signed/unsigned mismatch
+D:\c\pro3\pro3\pro3.cpp(556,19): warning C4018: '<': signed/unsigned mismatch
+D:\c\pro3\pro3\pro3.cpp(621,21): warning C4018: '<': signed/unsigned mismatch
+D:\c\pro3\pro3\pro3.cpp(634,26): warning C4101: 'e': unreferenced local variable
+D:\c\pro3\pro3\pro3.cpp(679,26): warning C4101: 'e': unreferenced local variable
+D:\c\pro3\pro3\pro3.cpp(119): warning C4715: 'menu': not all control paths return a value
+  pro3.vcxproj -> D:\c\pro3\Debug\pro3.exe
